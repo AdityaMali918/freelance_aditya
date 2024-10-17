@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Ujjwal Aglawe
+          Aditya Mali
         </p>
         <p>
           Ujjwal Aglawe 2222
