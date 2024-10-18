@@ -1,17 +1,12 @@
 import './App.css';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
 
 function App() {
     return (
         <div className="App">
-
-            <p className='text-red-600'>
-                Ujjwal Aglawe
-                Aditya Mali
-            </p>
-            <p>
-                Ujjwal Aglawe 2222
-            </p>
-
+            <Navbar/>
+            <Home/>
         </div>
     );
 }
